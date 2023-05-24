@@ -1,0 +1,5 @@
+from rectangle_3 import Rectangle
+
+rectangle_3 = Rectangle(5,10,100,50)
+print(rectangle_3)
+print(rectangle_3.get_area())
